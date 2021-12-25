@@ -1,6 +1,6 @@
-name: "UPSC CE SA-I"
+name: "UPSC CE SA - I"
 navbar:
-  title: "UPSC CE SA-I"
+  title: "UPSC CE SA - I"
   left:
     - text: "Home"
       href: index.html
