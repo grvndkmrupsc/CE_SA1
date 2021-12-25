@@ -1,11 +1,15 @@
-name: "MyLabJournal"
+name: "UPSC CE SA-I"
 navbar:
-  title: "MyLabJournal"
+  title: "UPSC CE SA-I"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+    - text: "Module 1"
+      href: index.html
+    - text: "Module 2"
+      href: index.html  
+    # - text: "Journal"
+    #   href: Journal.html
+    # - text: "Links"
+    #   href: Links.html
 output_dir: "docs"
