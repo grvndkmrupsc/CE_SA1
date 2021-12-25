@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "UPSC CE SA-I"
 output: html_document
 ---
 
@@ -17,27 +17,27 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Solved Previous Year Questions**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+This is a website which serves as a ready reference for solutions to conventional type questions that UPSC has fielded for the topic of Structural Analysis - I
 
 ## How to use
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. There are tabs dedicated to each topic/module in the subject
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Each tab has solutions to questions fielded in optional papers of various exams (IFS, CSE, ESE)
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. The requisite theory/concept has been explained concisely in each solution
 
-4. Change everything to make it your own.
+4. Links are provided to external resources - for those who want to delve deeper into the theory
 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Structural Analysis - I](grvndkmrupsc.github.io/CE_SA1/)
 
-<a href = "https://crumplab.github.io">
+<a href = "grvndkmrupsc.github.io/CE_SA1/">
 ![](images/logo.png)
 </a>
 </div>
