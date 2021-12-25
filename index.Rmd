@@ -35,9 +35,8 @@ This is a website which serves as a ready reference for solutions to conventiona
 </div>
 <div class="col-sm-6">
 
-### [Structural Analysis - I](grvndkmrupsc.github.io/CE_SA1/)
+### [Structural Analysis - I](https://grvndkmrupsc.github.io/CE_SA1/)
 
-<a href = "grvndkmrupsc.github.io/CE_SA1/">
 ![](images/logo.png)
 </a>
 </div>
