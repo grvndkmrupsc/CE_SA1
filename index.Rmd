@@ -37,5 +37,7 @@ This is a website which serves as a ready reference for solutions to conventiona
 
 ### [Contact](grvndkmrupsc@gmail.com)
 
+![](images/logo.png)
+
 </a>
 </div>

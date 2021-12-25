@@ -5,9 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Module 1"
-      href: index.html
+      href: m1.html
     - text: "Module 2"
-      href: index.html  
+      href: m2.html  
     # - text: "Journal"
     #   href: Journal.html
     # - text: "Links"
